@@ -10,7 +10,7 @@ app = csv_data.append
 
 failed_types = {r:0 for r in file_data.keys()}
 
-for u in  os.walk("C:\Users\mohanSrinivas\Documents"):
+for u in  os.walk("XXXXX"):
 	a,b,files =  u
 	# print b
 	# print files
